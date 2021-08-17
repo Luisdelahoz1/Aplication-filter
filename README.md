@@ -1,0 +1,2 @@
+# Aplication-filter
+Ngrx-Redux
